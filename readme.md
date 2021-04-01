@@ -1,3 +1,4 @@
-# Vanilla JavaScript App
+# Smart Factory Shop
+## Static Website
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
+This is the repo for the static website part of the Smart Factory Shop.
